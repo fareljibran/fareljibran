@@ -15,7 +15,14 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="37" alt="gmail logo"  />
+  <a href="mailto:falerfarel99@gmail.com">
+  <img 
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" 
+    height="37" 
+    alt="gmail logo" 
+  />
+</a>
+
   <a href="https://www.instagram.com/fuwarrelll?igsh=MXhucDhyM2t0ODVxOA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="37" alt="instagram logo"  />
   </a>
