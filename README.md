@@ -5,9 +5,9 @@
 <p align="left">I’m a Junior Web Developer student at SMK Negeri 1 Purwosari with a deep interest in building modern and user-focused web applications. I love turning real-world challenges into efficient, scalable solutions through clean and well-structured code.</p>
 
 ###
-
+<hr>
 <p align="center">We’re not just coding — we’re shaping meaningful digital journeys. 💻🌍</p>
-
+<hr>
 ###
 
 <p align="left">Media Sosial :</p>
