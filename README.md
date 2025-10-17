@@ -1,4 +1,4 @@
-<p align="left">🧑‍💻 About me</p>
+<p align="left"><b>🧑‍💻 About me</b></p>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">Soft Skill :</p>
+<p align="center"><b>Soft Skill :</b></p>
 
 ###
 
