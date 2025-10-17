@@ -5,26 +5,20 @@
 <p align="left">I’m a Junior Web Developer student at SMK Negeri 1 Purwosari with a deep interest in building modern and user-focused web applications. I love turning real-world challenges into efficient, scalable solutions through clean and well-structured code.</p>
 
 ###
-<hr>
-<p align="center">We’re not just coding — we’re shaping meaningful digital journeys. 💻🌍</p>
-<hr>
 
-<p align="center">Media Sosial :</p>
+<p align="center">We’re not just coding — we’re shaping meaningful digital journeys. 💻🌍</p>
 
 ###
 
-<div align="center">
+<p align="left">Media Sosial :</p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="37" alt="gmail logo"  />
   <a href="https://www.instagram.com/fuwarrelll?igsh=MXhucDhyM2t0ODVxOA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="37" alt="instagram logo"  />
   </a>
-<a href="mailto:falerfarel99@gmail.com">
-  <img 
-    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" 
-    height="37" 
-    alt="gmail logo" 
-  />
-</a>
-
 </div>
 
 ###
@@ -54,5 +48,3 @@
 </div>
 
 ###
-
-
