@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center"><b>Soft Skill :</b></p>
+<p align="center"><b>Soft Skills :</b></p>
 
 ###
 
